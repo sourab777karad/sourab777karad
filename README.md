@@ -13,8 +13,8 @@ I am a student at [MIT World Peace University](https://mitwpu.edu.in/admissions)
 **About Me:**
 
 - 👨🏻‍💻 I’m currently working on some cool personal Projects
-- 👨 My Hobbies are Cricket, Gaming, Reading and Travelling!
-- 🚀 I’m currently learning Data Structures, Algorithms, Web Development
+- 👨 My Hobbies are Cricket, Gaming, and Travelling!
+- 🚀 I’m currently learning Data Structures, Data Science, Web Development
 - 💬 Ask me about anything, I am happy to help
 
 
